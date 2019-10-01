@@ -1,4 +1,5 @@
-Second attempt at editing readme-edits.
+Hello world! This is my first test edit.
+Have a nice day.
 
 # Welcome to GitHub
 
