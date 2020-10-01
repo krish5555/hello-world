@@ -19,7 +19,8 @@ You are currently viewing your project's **README** file. **_README_** files are
 
 ## Your first website
 
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories.You can use GitHub Pages to build a portfolio of your work,   
+create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
 
 [Learn more about GitHub Pages](https://pages.github.com/)
 
@@ -43,7 +44,7 @@ Congratulations! You just launched your first GitHub Pages website. It's now liv
 
 When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
 
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
+With each commit , you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
 
 ## Practice: Customize your first GitHub website by writing HTML code
 
@@ -66,7 +67,7 @@ Delete this placeholder line:
 <p>Welcome to your first GitHub Pages website!</p>
 ```
 
-Then, paste the template to line 15 and fill in the blanks.
+Then , paste the template to line 15 and fill in the blanks.
 
 <img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
 
@@ -90,4 +91,5 @@ Want to add even more code and fun styles to your GitHub Pages website? [Follow 
 
 ## Everything you need to know about GitHub
 
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com).Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+BEST OF LUCK
